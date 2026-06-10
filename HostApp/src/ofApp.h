@@ -111,7 +111,6 @@ private:
     ofParameter<bool> textAutoScramble;
     ofParameter<float> textScrambleSpeed;
     ofParameter<int> textFontIndex;
-    ofParameter<bool> textShapeArabic;
     ofParameter<int> textAlignment;
     ofParameter<float> textLetterSpacing;
     ofParameter<int> textOutlineThickness;

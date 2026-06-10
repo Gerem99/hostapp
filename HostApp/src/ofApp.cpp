@@ -85,7 +85,6 @@ void ofApp::setup() {
     textParams.add(textAutoScramble.set("Auto Scramble", false));
     textParams.add(textScrambleSpeed.set("Scramble Speed", 1.0f, 0.1f, 10.0f));
     textParams.add(textFontIndex.set("Font Index", 0, 0, 1000));
-    textParams.add(textShapeArabic.set("Arabic Shaper", false));
     textParams.add(textAlignment.set("Alignment", 1, 0, 2));
     textParams.add(textLetterSpacing.set("Letter Spacing", 1.0f, 0.5f, 3.0f));
     textParams.add(textOutlineThickness.set("Outline Thickness", 0, 0, 3));
