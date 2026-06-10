@@ -455,138 +455,7 @@ obj/osx/Release/src/main.o: src/main.cpp \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/libs/openFrameworks/3d/of3dUtils.h \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/libs/openFrameworks/3d/ofCamera.h \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/libs/openFrameworks/3d/ofEasyCam.h \
-  src/ofApp.h src/PluginComponent.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/src/ofxCv.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/opencv.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/opencv_modules.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cvdef.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/version.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/hal/interface.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cv_cpu_dispatch.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/base.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cvstd.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cvstd_wrapper.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/neon_utils.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/vsx_utils.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/check.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/traits.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/matx.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/saturate.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/fast_math.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/matx.inl.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/types.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/mat.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/bufferpool.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/mat.inl.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/persistence.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/operations.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cvstd.inl.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/utility.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/optim.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/ovx.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/calib3d.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/features2d.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/miniflann.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/defines.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/config.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/affine.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/utils/logger.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/utils/logger.defines.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/utils/logtag.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/dnn.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/async.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/../dnn/version.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/dict.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/layer.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/dnn.inl.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/utils/inference_engine.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/utils/../dnn.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/flann_base.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/general.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/matrix.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/params.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/any.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/saving.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/nn_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/result_set.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/all_indices.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kdtree_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/dynamic_bitset.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/dist.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/heap.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/allocator.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/random.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kdtree_single_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kmeans_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/logger.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/composite_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/linear_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/hierarchical_clustering_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/lsh_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/lsh_table.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/autotuned_index.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/ground_truth.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/index_testing.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/timer.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/sampling.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/highgui.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/imgcodecs.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/videoio.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/./imgproc/segmentation.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/ml.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/ml/ml.inl.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/aruco_detector.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/aruco_dictionary.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/aruco_board.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/graphical_code_detector.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/detection_based_tracker.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/face.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/charuco_detector.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/barcode.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/photo.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/warpers.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/warpers.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cuda.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cuda_types.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cuda.inl.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/warpers_inl.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/matchers.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/motion_estimators.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/util.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/util_inl.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/camera.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/exposure_compensate.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/seam_finders.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/blenders.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/video.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/video/tracking.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/video/background_segm.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Utilities.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc/imgproc_c.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc/types_c.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/core_c.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/types_c.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/calib3d/calib3d_c.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Wrappers.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/CLD/include/CLD/imatrix.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/CLD/include/CLD/ETF.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/CLD/include/CLD/fdog.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/CLD/include/CLD/myvec.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Helpers.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Distance.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Calibration.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Tracker.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/ContourFinder.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/RunningBackground.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Flow.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/ObjectFinder.h \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Kalman.h \
+  src/ofApp.h \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxGui/src/ofxGui.h \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxGui/src/ofxToggle.h \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxGui/src/ofxBaseGui.h \
@@ -603,7 +472,23 @@ obj/osx/Release/src/main.o: src/main.cpp \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxSyphon/src/ofxSyphonClient.h \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxSyphon/src/ofxSyphonServer.h \
   /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxSyphon/src/ofxSyphonNSObject.hpp \
-  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxSyphon/src/ofxSyphonServerDirectory.h
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxSyphon/src/ofxSyphonServerDirectory.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxPostGlitch/src/ofxPostGlitch.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOsc.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscArg.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscMessage.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscSender.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscException.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/ip/UdpSocket.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscBundle.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscReceiver.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscPacketListener.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h \
+  /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/../ip/PacketListener.h
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/libs/openFrameworks/ofMain.h:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/libs/openFrameworks/utils/ofConstants.h:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/libs/glew/include/GL/glew.h:
@@ -1061,138 +946,6 @@ obj/osx/Release/src/main.o: src/main.cpp \
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/libs/openFrameworks/3d/ofCamera.h:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/libs/openFrameworks/3d/ofEasyCam.h:
 src/ofApp.h:
-src/PluginComponent.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/src/ofxCv.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/opencv.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/opencv_modules.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cvdef.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/version.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/hal/interface.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cv_cpu_dispatch.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/base.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cvstd.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cvstd_wrapper.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/neon_utils.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/vsx_utils.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/check.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/traits.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/matx.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/saturate.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/fast_math.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/matx.inl.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/types.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/mat.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/bufferpool.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/mat.inl.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/persistence.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/operations.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cvstd.inl.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/utility.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/optim.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/ovx.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/calib3d.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/features2d.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/miniflann.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/defines.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/config.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/affine.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/utils/logger.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/utils/logger.defines.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/utils/logtag.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/dnn.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/async.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/../dnn/version.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/dict.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/layer.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/dnn.inl.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/utils/inference_engine.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/dnn/utils/../dnn.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/flann_base.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/general.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/matrix.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/params.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/any.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/saving.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/nn_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/result_set.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/all_indices.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kdtree_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/dynamic_bitset.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/dist.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/heap.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/allocator.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/random.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kdtree_single_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kmeans_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/logger.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/composite_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/linear_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/hierarchical_clustering_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/lsh_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/lsh_table.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/autotuned_index.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/ground_truth.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/index_testing.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/timer.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/sampling.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/highgui.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/imgcodecs.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/videoio.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/./imgproc/segmentation.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/ml.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/ml/ml.inl.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/aruco_detector.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/aruco_dictionary.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/aruco_board.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/graphical_code_detector.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/detection_based_tracker.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/face.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/charuco_detector.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/barcode.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/photo.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/warpers.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/warpers.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cuda.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cuda_types.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/cuda.inl.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/warpers_inl.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/matchers.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/motion_estimators.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/util.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/util_inl.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/camera.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/exposure_compensate.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/seam_finders.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/detail/blenders.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/video.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/video/tracking.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/video/background_segm.hpp:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Utilities.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc/imgproc_c.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc/types_c.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/core_c.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/core/types_c.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/calib3d/calib3d_c.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Wrappers.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/CLD/include/CLD/imatrix.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/CLD/include/CLD/ETF.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/CLD/include/CLD/fdog.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/CLD/include/CLD/myvec.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Helpers.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Distance.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Calibration.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Tracker.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/ContourFinder.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/RunningBackground.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Flow.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/ObjectFinder.h:
-/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxCv/libs/ofxCv/include/ofxCv/Kalman.h:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxGui/src/ofxGui.h:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxGui/src/ofxToggle.h:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxGui/src/ofxBaseGui.h:
@@ -1210,3 +963,19 @@ src/PluginComponent.h:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxSyphon/src/ofxSyphonServer.h:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxSyphon/src/ofxSyphonNSObject.hpp:
 /Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxSyphon/src/ofxSyphonServerDirectory.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxPostGlitch/src/ofxPostGlitch.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOsc.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscArg.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscMessage.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscSender.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscException.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/ip/UdpSocket.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscBundle.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/src/ofxOscReceiver.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscPacketListener.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h:
+/Users/kareemosman/Downloads/of_v0.12.1_osx_release/addons/ofxOsc/libs/oscpack/src/osc/../ip/PacketListener.h:

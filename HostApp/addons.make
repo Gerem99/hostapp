@@ -3,3 +3,4 @@ ofxGui
 ofxOpenCv
 ofxPostGlitch
 ofxSyphon
+ofxOsc
